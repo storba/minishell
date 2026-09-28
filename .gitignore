@@ -1,0 +1,20 @@
+# Ignore compiled files
+*.o
+*.out
+*.gch
+*.a
+minishell
+
+# Ignore editor/OS_specific files
+.vscode/
+.DS_Store
+
+# Ignore test files
+*.txt
+how_to_libft.c
+
+# ignore tester
+minishell_tester
+
+.dockerignore
+Dockerfile
